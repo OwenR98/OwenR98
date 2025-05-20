@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I'm a software engineer based in Dorset, England. I specialize in building and integrating systems using a range of technologies and languages including C#, JavaScript, TypeScript, and React. My expertise also extends to working extensively with Dynamics365, Business Central, and the Power Platform.
+I'm a software engineer based in England. I specialize in building and integrating systems using a range of technologies and languages including C#, JavaScript, TypeScript, and React. My expertise also extends to working extensively with Dynamics365, Business Central, and the Power Platform.
 
 ### 🛠️ Technologies & Tools
 
