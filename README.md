@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-I'm a software engineer based in England. I specialize in building and integrating systems using a range of technologies and languages including C#, JavaScript, TypeScript, and React. My expertise also extends to working extensively with Dynamics365, Business Central, and the Power Platform.
+Software engineer based in England. I specialize in building and integrating systems using a range of technologies and languages including C#, JavaScript, TypeScript, and React. My expertise also extends to working extensively with Dynamics365, Business Central, and the Power Platform.
 
 ### 🛠️ Technologies & Tools
 
@@ -15,7 +15,3 @@ I'm a software engineer based in England. I specialize in building and integrati
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owenramsey98)
-
-### 💡 Quote
-
-*"Perfect may be the enemy of good, but what's the harm in trying?"*
